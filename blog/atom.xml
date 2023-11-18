@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ranciid.github.io/blog</id>
+    <title>THE RANCIID WORLD Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ranciid.github.io/blog"/>
+    <subtitle>THE RANCIID WORLD Blog</subtitle>
+    <icon>https://ranciid.github.io/img/ranciid.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Ranciid World]]></title>
+        <id>https://ranciid.github.io/blog/welcome</id>
+        <link href="https://ranciid.github.io/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA["Ranciid" is a project of mine. Think of it as its own universe. The random one that resides in my mind.]]></summary>
+        <content type="html"><![CDATA[<p>"Ranciid" is a project of mine. Think of it as its own universe. The random one that resides in my mind.</p>
+<p>It's the name I have given to a collection of random ideas. A game, a series of short stories, just random ideas that flow on a daily basis.</p>
+<p>The general idea:</p>
+<p>A stronghold resides in the most toxic depths of a planet ruled by demonic entities. This stronghold is run by The Gatekeeper, who is responsible for a number of atrocities which have warped the very fabric of existence. The Gatekeepers aim is to alter all possible realities in an attempt to enslave EVERYTHING that could possibly be enslaved. Once the ruler of a bustling metropolis, this wretch believed in an ancient Earth tome - eventually trading in His own life to become an apostle of God in a sick and twisted attempt for eternal life.</p>
+<p>The Gatekeeper sits between God and Satan, the grey area, with the job of snatching every "lost" soul and sending it to the realm of where it needed to go. Power, wealth and His very life essence was promised to Him for eternity. So He milked it. Every last drop. Now, every settled planet cries out for salvation, as they die meaninglessly to a greater force they do not even know exists, as it feeds from their knowledge, as it feeds from their history. As it attempts to become more.</p>
+<p>"The Spider" is aware of this web being weaved. "The Spider" plans an attack, an attempt to take down Ranciid once and for all.</p>]]></content>
+        <author>
+            <name>Jake Hurd</name>
+            <uri>https://github.com/retr0gr4d3</uri>
+        </author>
+        <category label="introduction" term="introduction"/>
+    </entry>
+</feed>

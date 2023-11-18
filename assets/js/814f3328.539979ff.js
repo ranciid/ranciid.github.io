@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkranciid=self.webpackChunkranciid||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Ranciid World","permalink":"/blog/welcome","unlisted":false}]}')}}]);

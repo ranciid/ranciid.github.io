@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>THE RANCIID WORLD Blog</title>
+        <link>https://ranciid.github.io/blog</link>
+        <description>THE RANCIID WORLD Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[The Ranciid World]]></title>
+            <link>https://ranciid.github.io/blog/welcome</link>
+            <guid>https://ranciid.github.io/blog/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA["Ranciid" is a project of mine. Think of it as its own universe. The random one that resides in my mind.]]></description>
+            <content:encoded><![CDATA[<p>"Ranciid" is a project of mine. Think of it as its own universe. The random one that resides in my mind.</p>
+<p>It's the name I have given to a collection of random ideas. A game, a series of short stories, just random ideas that flow on a daily basis.</p>
+<p>The general idea:</p>
+<p>A stronghold resides in the most toxic depths of a planet ruled by demonic entities. This stronghold is run by The Gatekeeper, who is responsible for a number of atrocities which have warped the very fabric of existence. The Gatekeepers aim is to alter all possible realities in an attempt to enslave EVERYTHING that could possibly be enslaved. Once the ruler of a bustling metropolis, this wretch believed in an ancient Earth tome - eventually trading in His own life to become an apostle of God in a sick and twisted attempt for eternal life.</p>
+<p>The Gatekeeper sits between God and Satan, the grey area, with the job of snatching every "lost" soul and sending it to the realm of where it needed to go. Power, wealth and His very life essence was promised to Him for eternity. So He milked it. Every last drop. Now, every settled planet cries out for salvation, as they die meaninglessly to a greater force they do not even know exists, as it feeds from their knowledge, as it feeds from their history. As it attempts to become more.</p>
+<p>"The Spider" is aware of this web being weaved. "The Spider" plans an attack, an attempt to take down Ranciid once and for all.</p>]]></content:encoded>
+            <category>introduction</category>
+        </item>
+    </channel>
+</rss>
